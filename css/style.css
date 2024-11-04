@@ -1,93 +1,93 @@
 
-*{
+/* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+} */
 
-header {
+/* header {
     background-color: black;
     color: white;
     text-align: center;
     padding: 20px 0;
-}
+} */
 
-.bg-color{
+/* .bg-color{
 
     background-color: black;
-}
+} */
 
-.bg-color a{
+/* .bg-color a{
     color: white;
-}
+} */
 
 
-nav ul {
+/* nav ul {
     list-style: none;
     display: flex;
     justify-content: center;
-}
+} */
 
-nav ul li {
+/* nav ul li {
     margin: 0 20px;
     
-}
+} */
 
-nav ul li a {
+/* nav ul li a {
     color: white;
     text-decoration: none;
 
-}
+} */
 
-h1, h2 {
+/* h1, h2 {
     font-family: "Rubik", sans-serif;
-}
+} */
 
-body{
+/* body{
     background-color: rgba(31, 11, 11, 0.425);
     font-family: "Rubik", sans-serif;
-}
+} */
 
-img {
+/* img {
     height: auto;
     object-fit: cover;
     margin: 10px;
     display: block;
     width: 80%;
-}
+} */
 
-footer {
+/* footer {
     background-color: black;
     color: white;
     text-align: center;
-}
+} */
 
-footer a {
+/* footer a {
     color: white;
     text-decoration: none;
 
-}
+} */
 
-.sobrenosotros {
+/* .sobrenosotros {
     height: auto;
     width: auto;
     margin-left: auto;
     margin-right: auto;
 
     
-}
+} */
 
-p{
+/* p{
     font-size: 16px;
-}
+} */
 
-h1 a{
+/* h1 a{
     text-align: center;
     font-size: 26px;
     letter-spacing: 1.5px;
-}
+} */
 
-section{
+/* section{
     
     display: flex;
 
@@ -95,33 +95,33 @@ section{
     flex-direction: row;
     
     
-}
+} */
 
-.titulos{
+/* .titulos{
     text-align: center;
-}
+} */
 
-.carousel{
+/* .carousel{
     display: flex;
     width: 40%;
     
     justify-content: space-around;
     
-}
+} */
 
-div div img {
+/* div div img {
     width: 80%;
     
 
-}
+} */
 
-.productos{
+/* .productos{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-}
+} */
 
-@media (max-width: 500px) {
+/* @media (max-width: 500px) {
     header {
         flex-direction: row;
         align-items: center;
@@ -185,7 +185,8 @@ div div img {
     }
 
     
-}
+} */
+
 
 
 

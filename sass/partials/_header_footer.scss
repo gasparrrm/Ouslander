@@ -1,0 +1,38 @@
+header {
+    background-color: $negro;
+    color: $blanco;
+    text-align: center;
+    padding: 20px 0;
+    .bg-color{
+
+        background-color: $negro;
+        a{
+            color: $blanco;
+        }
+        ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+        }
+        li {
+            margin: 0 20px;
+            .nav-txt {
+                color: $blanco;
+                text-decoration: none;
+            
+            }
+            
+        }
+    }
+    
+}
+
+footer {
+    background-color: $negro;
+    color: $blanco;
+    text-align: center;
+    .ig {
+        @extend .nav-txt;
+    
+    }
+}

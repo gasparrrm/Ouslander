@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(31, 11, 11, 0.425);
+    font-family: "Rubik", sans-serif;
+    h1, h2 {
+        font-family: "Rubik", sans-serif;
+    }
+    img {
+        height: auto;
+        object-fit: cover;
+        margin: 10px;
+        display: block;
+        width: 80%;
+    }
+    p{
+        font-size: 16px;
+    }
+    a{
+        text-align: center;
+        font-size: 26px;
+        letter-spacing: 1.5px;
+    }
+}

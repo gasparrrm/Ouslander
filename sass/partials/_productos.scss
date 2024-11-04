@@ -1,0 +1,15 @@
+.productos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    .fade-in{
+        opacity: 0;
+    
+        animation: fadeIn 1s forwards; /* Duración de la animación */
+    }
+    @keyframes fadeIn {
+        to {
+            opacity: 1;
+        }
+    }
+}
